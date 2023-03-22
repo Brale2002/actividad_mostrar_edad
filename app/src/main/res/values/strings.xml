@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cambio de pagina</string>
+    <string name="tituloApp">Saludo App</string>
+    <string name="textButton">Ingresar</string>
+</resources>
